@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм» [![Build status][travis-image]][travis-url]
 
 * Студент: [Ксения Ганул](https://up.htmlacademy.ru/javascript/21/user/589735).
-* Наставник: `Неизвестно`.
+* Наставник: Максим Андреев.
 
 ---
 
